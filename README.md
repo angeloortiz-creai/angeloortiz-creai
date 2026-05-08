@@ -8,8 +8,10 @@
     for startups and organizations. I own the full stack — from training and                                                                                        
     integrating ML models into production systems, to the APIs and UIs that expose them.
   </p>
-                                                                                                                                                                    
-  <br/>                                                  
+        
+
+  ![](./profile-3d-contrib/profile-night-green.svg)
+
                                                                                                                                                                     
   <p align="center">
     <a href="mailto:angeloortiz@creai.mx">
